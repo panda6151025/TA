@@ -9,9 +9,8 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Liam Hu",
-    "email": "liamhu0914@gmail.com",
-    "url": "https://github.com/panda6151025"
+    "name": "Tristan Arjoon",
+    "email": "tristanarj88@outlook.com"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
@@ -46,7 +45,6 @@
     "css"
   ],
   "license": "MIT",
-  
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@react-three/drei": "^9.93.0",

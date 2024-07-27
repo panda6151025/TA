@@ -85,7 +85,7 @@ export const SOCIALS = [
   {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/panda6151025",
+    link: "",
   },
   {
     name: "Discord",
@@ -95,7 +95,7 @@ export const SOCIALS = [
   {
     name: "Discord",
     icon: RxEnvelopeOpen,
-    link: `mailto:liamhu0914@gmail.com`,
+    link: `mailto:tristanarj88@outlook.com`,
   },
 ] as const;
 

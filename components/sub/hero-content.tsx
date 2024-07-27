@@ -61,9 +61,9 @@ export const HeroContent = () => {
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-          href={mailtoLink}
+          // href={mailtoLink}
         >
-          Download my Resume
+          tristanarj88@outlook.com
         </motion.a>
       </div>
 
@@ -80,6 +80,14 @@ export const HeroContent = () => {
           className="select-none"
         />
       </motion.div>
+      <Image
+        src="/avatar.png"
+        alt="work icons"
+        height={350}
+        width={350}
+        draggable={false}
+        className="select-none"
+      />
     </motion.div>
   );
 };
