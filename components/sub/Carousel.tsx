@@ -254,7 +254,7 @@ function Carousel<RecordType extends DefaultRecordType>(
     <div
       onClick={(e) => {}}
       ref={boxRef}
-      style={{ position: "relative", height, width }}
+      style={{ position: "relative", height, width, marginBottom: "200px" }}
     >
       {content(children, itemClick)}
     </div>
